@@ -28,6 +28,7 @@
 
 #include <thread>
 #include <vector>
+#include <functional>
 
 #include "core/constants.hpp"
 #include "core/type.hpp"
